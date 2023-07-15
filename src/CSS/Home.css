@@ -1,0 +1,81 @@
+.home {
+  width: 60rem;
+  margin: 2em;
+}
+
+.search-bar {
+  width: 30rem;
+  padding: 10px;
+  border: solid 1px #ee4860;
+  border-radius: 10px;
+  padding-left: 20px;
+}
+.search {
+  background-color: #ee4860;
+  color: white;
+  border-radius: 12px;
+  border: #ee4860;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.notification {
+  font-size: 50px;
+  color: white;
+  background-color: #ee4860;
+  border-radius: 50%;
+  padding: 10px;
+}
+.notifications-holder {
+  margin-left: 50px;
+}
+.greetings {
+  color: #ee4860;
+  margin-bottom: -2px;
+}
+.topDestination {
+  font-weight: 700;
+}
+.card-footer {
+  background-color: #ee4860;
+  color: white;
+  border-radius: 100px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.card-img-top {
+  height: 10rem;
+  width: 17rem;
+  margin: auto;
+  border-radius: 10px;
+}
+.card {
+  border-radius: 20px;
+  height: 16rem;
+  border-color: #ee4860;
+}
+.card-body {
+  padding: none;
+}
+.card-title {
+  margin: -7px;
+}
+.small-text {
+  color: white;
+}
+.img-fluid {
+  height: 80px;
+  width: 80px;
+  border-radius: 5px;
+  margin: 10px;
+}
+.cards {
+  border: 1px solid #ee4860;
+  height: 100px;
+  border-radius: 20px;
+  display: flex;
+}
+.card-bodys {
+  width: 15rem;
+  height: 100px;
+}

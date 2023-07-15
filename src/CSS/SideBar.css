@@ -1,7 +1,8 @@
 .sidebar {
-  height: 100vh;
+  height: 103vh;
   width: 16rem;
   background-color: #ebeaea;
+  position: sticky;
 }
 .side-title {
   font-size: x-large;
@@ -44,4 +45,17 @@
   border-radius: 50%;
   color: #ee4860;
   background-color: white;
+}
+.link,
+.link-title {
+  color: black;
+  text-decoration: none;
+}
+.link:hover {
+  color: #ebeaea;
+}
+.discountImage {
+  height: 80px;
+  width: 80px;
+  border-radius: 10px;
 }
